@@ -1,0 +1,26 @@
+F:\NQueens\NQueens\bin\Debug\NQueens.exe
+F:\NQueens\NQueens\bin\Debug\NQueens.pdb
+F:\NQueens\NQueens\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NQueens\NQueens\obj\x86\Debug\NQueens.Form1.resources
+F:\NQueens\NQueens\obj\x86\Debug\NQueens.Properties.Resources.resources
+F:\NQueens\NQueens\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\NQueens\NQueens\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\NQueens\NQueens\obj\x86\Debug\NQueens.exe
+F:\NQueens\NQueens\obj\x86\Debug\NQueens.pdb
+F:\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.exe
+F:\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.pdb
+F:\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.csprojResolveAssemblyReference.cache
+F:\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.Form1.resources
+F:\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.csproj.GenerateResource.Cache
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.csprojResolveAssemblyReference.cache
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.Form1.resources
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.csproj.GenerateResource.Cache
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.exe
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.pdb
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\bin\Debug\NQueens.exe
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\bin\Debug\NQueens.pdb
+F:\2013-2014\Algorithm_Analysis\prac. AA\project02\part_1\NQueens\NQueens\obj\x86\Debug\NQueens.Properties.Resources.resources
+C:\Users\Nazgul\Desktop\NQueens\obj\x86\Debug\NQueens.exe
+C:\Users\Nazgul\Desktop\NQueens\obj\x86\Debug\NQueens.pdb
+C:\Users\Nazgul\Desktop\N-Queens\NQueens\obj\x86\Debug\NQueens.exe
+C:\Users\Nazgul\Desktop\N-Queens\NQueens\obj\x86\Debug\NQueens.pdb
